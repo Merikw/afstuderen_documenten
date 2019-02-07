@@ -16,6 +16,7 @@ Scrum
     Bron: https://www.atlassian.com/agile/scrum
 
 Kanban vs Scrum
+
 |                          | Scrum                                         | Kanban                                     |
 | ------------------------ | --------------------------------------------- | ------------------------------------------ |
 | Candans                  | Vaste tijd van sprints (bijvoorbeeld 2 weken) | Constante flow van werken                  |
