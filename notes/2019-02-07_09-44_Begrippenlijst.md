@@ -4,6 +4,7 @@ tags:
   - PVA
   - Plan Van Aanpak
   - PID
+  - Afstuderen
 ---
 # Begrippenlijst voor het plan van aanpak
 
