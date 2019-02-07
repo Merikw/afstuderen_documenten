@@ -21,3 +21,8 @@ tags:
 - Melding drukte favoriete artiest: wanneer je een artiest een favoriet hebt gegeven en het is erg druk, dan krijg je een melding dat het bij dat podium druk is.
 - Niet kunnen kiezen: spelen er 2 of meerdere artiesten te gelijk en kun je niet kiezen? Laat dan de app kiezen naar welke je gaat. 
 - Water drink melding: tijdens een festival wordt er veel gedronken... maar geen water wat wel belangrijk is.
+- Weersverwachting / meldingen: bijvoorbeeld melding van regen, smeren zonnenbrand, warme kleding aandoen.
+- Budgetering: stel je budget in, houd bij hoeveel muntjes je hebt gebruikt en de app berekent hoeveel geld & muntjes je nog over hebt.
+- Paklijst: met afvink functie. 
+
+
