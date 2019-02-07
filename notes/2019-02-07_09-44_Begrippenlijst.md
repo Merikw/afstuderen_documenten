@@ -1,10 +1,11 @@
 ---
 tags:
-  - Begrippenlijst
-  - PVA
-  - Plan Van Aanpak
-  - PID
   - Afstuderen
+  - Begrippenlijst
+  - Initialisatie- en onderzoeksfase
+  - PID
+  - Plan Van Aanpak
+  - PVA
 ---
 # Begrippenlijst voor het plan van aanpak
 

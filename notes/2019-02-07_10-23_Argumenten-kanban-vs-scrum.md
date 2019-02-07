@@ -1,9 +1,12 @@
 ---
 tags:
--      Portfolio
--      Afstuderen
--      Argumentatie
+  - Afstuderen
+  - Argumentatie
+  - Initialisatie- en onderzoeksfase
+  - Portfolio
 ---
+### Onderzoek
+> Onderzoeksmethodes: Bieb & Veld
 
 # Kanban
 Een kanban bord is een manier van werken met de agilestrategie. Door middel van kanban kan er met een team iteratief gewerkt worden aan een product. Het bord is opgedeeld in verschillende kolommen waar de workflow mee bepaald wordt. Daarnaast zijn er kaarten waar taken op staan die vervolgens op de juiste kolom van het bord worden gezet. Tijdens kanban kunnen de taken de hele tijd wijzigen in prioriteit, kunnen er constant wijzigingen in het project worden aangebracht en kan er wanneer gereed opgeleverd worden. Hier wordt er gefocust op het visualiseren vaan het werk dat gedaan moet worden en constant de flow te perfectioneren. 
