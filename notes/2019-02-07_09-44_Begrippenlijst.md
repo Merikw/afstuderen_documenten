@@ -8,7 +8,7 @@ tags:
 ---
 # Begrippenlijst voor het plan van aanpak
 
-##Begrippen:
+## Begrippen:
 -   .NET framework
 -   Agile
 -   API
