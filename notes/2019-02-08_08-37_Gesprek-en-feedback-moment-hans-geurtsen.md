@@ -57,8 +57,8 @@ Todo:
 - [x] Feedback plan van aanpak verwerken.
 - [] Agile onderzoek afschrijven.
 - [x] Om de weken een agenda afspraak in plannen met Hans Geurtsen.
-- [] Mail sturen met plan van aanpak & notes (incl melden dat er veranderingen kunnen plaats vinden door woensdag) naar Bartosz en Hans.
-- [] Blog maken (kan eventueel ook thuis).
+- [x] Mail sturen met plan van aanpak & notes (incl melden dat er veranderingen kunnen plaats vinden door woensdag) naar Bartosz en Hans.
+- [x] Blog maken (kan eventueel ook thuis).
 - [x] Backlog alvast maken.
 - [x] Vragen aan Hans bij wie ik moet zijn voor een gesprek dat betrekking heeft tot privacy en security eisen van een app. -> Nico Nijhuis. 
 
