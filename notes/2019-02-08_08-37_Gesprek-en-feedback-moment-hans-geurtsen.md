@@ -32,7 +32,7 @@ Security, privacy en schaalbaarheid meenemen in de kwaliteitseisen.
 
 #### Uitgangspunten
 Punt 4 anders verwoorden -> zie opdracht beschrijving feedback.
-Punt 5 in de scop opnemen -> iets anders beargumenteren: makkelijker uit te rollen voor de deadline -> na 20 april verbeteringen maken dus eventueel cross platform. Dit kan nog veranderen na het gesprek met de directie van Paaspop aankomende woensdag.
+Punt 5 in de scope opnemen -> iets anders beargumenteren: makkelijker uit te rollen voor de deadline -> na 20 april verbeteringen maken dus eventueel cross platform. Dit kan nog veranderen na het gesprek met de directie van Paaspop aankomende woensdag.
 
 #### Kostenbudget
 Backend kosten opnemen: cloudomgeving -> cloudprovider op basis van wat ik weet zijn de kosten beperkt/ 
@@ -54,8 +54,11 @@ Schakelen met Marco Kuijper over Cross Platform (afspraak in plannen).
 In de mail naar docent begeleider aangeven dat alles met betrekking tot de Android versie nog kan veranderen naar aanleiding van het gesprek aankomende woensdag.
 
 Todo:
-~ Feedback verwerken
-~ Agile onderzoekje afschrijven
-~ Mail sturen met plan van aanpak & notes (incl melden dat er veranderingen kunnen plaats vinden door woensdag) naar Bartosz en Hans.
-~ Blog maken (kan eventueel ook thuis)
-~ Backlog alvast maken
+- [x] Feedback plan van aanpak verwerken.
+- [] Agile onderzoek afschrijven.
+- [x] Om de weken een agenda afspraak in plannen met Hans Geurtsen.
+- [] Mail sturen met plan van aanpak & notes (incl melden dat er veranderingen kunnen plaats vinden door woensdag) naar Bartosz en Hans.
+- [] Blog maken (kan eventueel ook thuis).
+- [x] Backlog alvast maken.
+- [x] Vragen aan Hans bij wie ik moet zijn voor een gesprek dat betrekking heeft tot privacy en security eisen van een app. -> Nico Nijhuis. 
+
