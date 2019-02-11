@@ -6,7 +6,7 @@ tags:
   - Portfolio
 ---
 ### Onderzoek
-> Onderzoeksmethodes: Bieb & Veld
+> Onderzoeksstrategie: Veld
 
 # Vragen voor de directie van Paaspop
 1. Moet de app cross platform zijn? Voordeel: app kan door meer mensen gebruikt worden, nadeel: app uitrollen is op IOS een stuk lastiger en gaat minder snel dan op Android. 

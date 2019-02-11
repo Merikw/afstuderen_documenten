@@ -6,7 +6,7 @@ tags:
   - Portfolio
 ---
 ### Onderzoek
-> Onderzoeksmethodes: Bieb & Veld
+> Onderzoeksstrategie: Bieb 
 
 # Waarom wil ik werken met één van de agile ontwikkelmethodes?
 Tijdens mijn afstudeerstage zal ik in de ontwikkel- en opleverfase gebruik maken van een agile ontwikkelmethode in plaast van een watervalmethode. Hiervoor heb ik gekozen omdat ik tijdens het project er flexibel moet zijn. De functionaliteiten van de app die opgeleverd moet worden zijn nog niet bekend waardoor er constante verandering plaats kan vinden. Aangezien er met een agile ontwikkelmethode iteratief gewerkt wordt kunnen veranderingen snel opgevangen worden. Daarnaast wordt er door dit iteratieve werken steeds feedback gevraagd aan de opdrachtgever. Dit zijn belangrijke elementen die in een agile ontwikkelmethode verwerkt zitten. Wel moet een agile methode de software ontwikkel cyclus respecteren en moet de manier van iteratief werken wel voldoen aan plannen, uitvoeren en opleveren. Op welke manier en wanneer dat precies gebeurt hangt af van de gebruike agile methode. Agile is dus ideaal voor het werken aan een project waar nog niet alles vast staat en veel kan veranderen, zoals bij mijn project.

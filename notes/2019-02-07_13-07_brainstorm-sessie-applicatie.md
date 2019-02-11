@@ -6,7 +6,7 @@ tags:
   - Portfolio
 ---
 ### Onderzoek
-> Onderzoeksmethodes: Bieb & Veld
+> Onderzoeksstrategie: Werkplaats
 
 # Mogelijke functies 
 - Terug vinden van je tent: tent plaatsen als locatie en weer terug vinden.
