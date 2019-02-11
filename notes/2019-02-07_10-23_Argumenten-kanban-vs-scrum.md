@@ -33,9 +33,16 @@ Een kanban bord is een manier van werken met de agilestrategie. Door middel van 
   Bron: https://www.atlassian.com/agile/kanban/boards
 
 ## Lean Development
+Lean is een methode die is ontwikkeld door Toyota en dient als conceptueel framework waar zeven principes van essentieel belang zijn:
+1. Het verwijderen van de elementen die niet nodig zijn (alles wat niet van effectief belang is voor de klant).
+2. Kwaliteitsontwikkeling. 
+3. Kennis ontwikkelen (documenteren van de gehele infrastructuur van het project).
+4. Verschillende verplichtingen.
+5. Snelle oplevering: zo snel mogelijk.
+6. Respecteren van het gehele team.
+7. Optimaliseren van het geheel. 
 
-  Bron: https://www.xpand-it.com/2018/10/11/top-5-agile-methodologies/
-## Crystal
+Lean heeft een aantal voor- en nadelen. Een groot voordeel van lean is dat er zoveel mogelijk elementen uit het proces verwijderd kunnen worden wat tijd en geld bespaart waardoor er zo snel mogelijk opgeleverd kan worden aan de klant. Nadelen van het project zijn echter dat de documentatie leidend is en als dit niet goed is, er veel fouten kunnen ontstaan. 
 
   Bron: https://www.xpand-it.com/2018/10/11/top-5-agile-methodologies/
 
@@ -49,6 +56,8 @@ Aangezien Scrum de meest gebruikte agile ontwikkelmethode is en ik overweeg om k
 | Rollen                   | Product owner, scrum master, ontwikkelteam    | Geen vaste rollen                          |
 | Belangrijke statistieken | snelheid                                      | Doorlooptijd, cyclustijd, Work In Progress |
 | Veranderingen fylosofie  | Alleen veranderingen na de sprint             | Veranderingen kunnen hele tijd gebeuren    |
+
+De andere twee methodes heb ik in deze directe vergelijking niet opgenomen omdat XP zich erg focust op communicatie, feedback, pair progamming etc. wat dus allemaal heel erg gericht is op in een team werken en tijdens dit project wordt er in één-mansteam gewerkt. Ook lean focust erg op het werken in een team en het verwijderen van elementen die niet direct nodig zijn voor de klant. Echter kunnen deze elementen wel van belang zijn voor de Fontys / het afstuderen wat ook een groot deel is van het project maar niet direct van belang is voor de klant. 
 
   Bron: https://www.atlassian.com/agile/kanban/kanban-vs-scrum
   Bron: https://www.scrumalliance.org/learn-about-scrum/who-uses-scrum
