@@ -21,6 +21,10 @@ Aandachtspunten:
 
     > bron: https://www.survalyzer.com/nl/hoe-maak-je-een-enquete/
 
+## Hoe verspreid je een enquête?
+-   Eigen netwerk (Facebook, LinkedIn, Slack etc.)
+-   Muziek / festival fora    
+
 ## Vragen voor de enquête
 - Ga jij wel eens naar een festival?
     - [] Ja.
