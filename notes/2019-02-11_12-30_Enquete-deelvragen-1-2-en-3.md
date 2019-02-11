@@ -23,48 +23,48 @@ Aandachtspunten:
 
 ## Vragen voor de enquête
 - Ga jij wel eens naar een festival?
-    [] Ja.
-    [] Nee
+    - [] Ja.
+    - [] Nee
 
     > als er op nee wordt gestemd: stop de enquête. Anders ga verder. 
 
 - Selecteer de volgende opties waar jij tegen aan loopt als je op een festival bent:
-    [] Te druk bij de bar en wc.
-    [] Ik ben mijn vrienden kwijt.
-    [] Ik kan mijn tent niet terug vinden.
-    [] Ik kan niet kiezen naar welk concert ik wil als er overlap is.
-    [] Anders, namelijk: vul zelf in.
+    - [] Te druk bij de bar en wc.
+    - [] Ik ben mijn vrienden kwijt.
+    - [] Ik kan mijn tent niet terug vinden.
+    - [] Ik kan niet kiezen naar welk concert ik wil als er overlap is.
+    - [] Anders, namelijk: vul zelf in.
 
 - Denk je dat IT (mobiele app, schermen op het terrein etc.) kan helpen bij de ergernis(sen) waar je tegen aan loopt op een festival?
-    [] Ja.
-    [] Misschien
-    [] Nee.
+    - [] Ja.
+    - [] Misschien
+    - [] Nee.
 
     > Als er op nee wordt gestemd: stop de enquête. Anders ga verder.
 
 - Wat voor IT toepassing(en) zou(den) een betere ervaring op een festival geven?
-    [] Mobiele app.
-    [] Borden op het festivalterrein die bijvoorbeeld de rustigste bar of wc aangeven.
-    [] Anders, namelijk: vul zelf in.
+    - [] Mobiele app.
+    - [] Borden op het festivalterrein die bijvoorbeeld de rustigste bar of wc aangeven.
+    - [] Anders, namelijk: vul zelf in.
 
 - Zou je een mobiele app downloaden voor een festival weekend als deze je een betere of makkelijkere ervaring geeft?
-    [] Ja.
-    [] Misschien
-    [] Nee.
+    - [] Ja.
+    - [] Misschien
+    - [] Nee.
 
     > als er op nee wordt gestemd: vraag waarom niet. Anders ga verder.
 
 - Wat voor functionaliteiten zou jij graag zien in een mobiele app voor een festival?
-    [] Tent terug vind functie.
-    [] Meeting punt functie welke de beste plek laat zien om je vrienden weer te ontmoeten.
-    [] Rooster welke artiest wanneer en waar speelt.
-    [] Interesse meter om te kijken hoeveel mensen naar een bepaalde artiest willen.
-    [] Plattegrond van het festivalterrein.
-    [] Functie die aangeeft wat de rustigste (en dichtstbijzijndste) bar, wc, eet plek etc is.
-    [] Aanrader functie op basis van je interesses van artiesten.
-    [] Functie voor wanneer je niet kunt kiezen tussen 2 acts, dan kiest de app voor je.
-    [] Budgetering functie waarin je kan bijhouden wat je budget is en die dan aangeeft hoeveel muntjes je nog kan uitgeven.
-    [] Water drink melding.
-    [] Weersverwachting.
-    [] Paklijst.
-    [] Anders, namelijk: vul zelf in.
+    - [] Tent terug vind functie.
+    - [] Meeting punt functie welke de beste plek laat zien om je vrienden weer te ontmoeten.
+    - [] Rooster welke artiest wanneer en waar speelt.
+    - [] Interesse meter om te kijken hoeveel mensen naar een bepaalde artiest willen.
+    - [] Plattegrond van het festivalterrein.
+    - [] Functie die aangeeft wat de rustigste (en dichtstbijzijndste) bar, wc, eet plek etc is.
+    - [] Aanrader functie op basis van je interesses van artiesten.
+    - [] Functie voor wanneer je niet kunt kiezen tussen 2 acts, dan kiest de app voor je.
+    - [] Budgetering functie waarin je kan bijhouden wat je budget is en die dan aangeeft hoeveel muntjes je nog kan uitgeven.
+    - [] Water drink melding.
+    - [] Weersverwachting.
+    - [] Paklijst.
+    - [] Anders, namelijk: vul zelf in.
