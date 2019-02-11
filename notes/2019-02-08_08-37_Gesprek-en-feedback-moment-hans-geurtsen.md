@@ -1,10 +1,10 @@
 ---
 tags:
   - Afstuderen
+  - Feedback
+  - Gesprek
   - Initialisatie- en onderzoeksfase
   - Portfolio
-  - Gesprek
-  - Feedback
 ---
 
 ## Gesprek en feedback moment op Plan Van Aanpak 08/02/2019
