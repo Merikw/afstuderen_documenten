@@ -44,11 +44,17 @@ De onderstaande elementen gelden in principe bij het kiezen van elke programmeer
 
 Zoals in deze tabel te zien is, komen Django en ASP.NET Core het best uit het onderzoek. Deze gaan we aan de hand van de verwachte requirements met elkaar vergelijken.  
  > Bron: https://developer.mozilla.org/en-US/docs/Learn/Server-side/First_steps/Web_frameworks 
+
  > https://medium.com/@OPTASY.com/how-to-scale-your-node-js-app-best-strategies-and-built-in-tools-for-scalability-a1725df082f5
+
  > https://medium.com/@mihaigeorge.c/web-rest-api-benchmark-on-a-real-life-application-ebb743a5d7a3
+
  > https://hunter2.com/how-secure-are-popular-web-frameworks-comparing-options
+
  > https://medium.com/the-node-js-collection/why-the-hell-would-you-use-node-js-4b053b94ab8e
+
  > https://djangobook.com/scaling-django/
+
  > https://docs.microsoft.com/en-us/dotnet/standard/modern-web-apps-azure-architecture/common-web-application-architectures
 
 ### Python (Django) vs C# (ASP.NET Core)
@@ -90,6 +96,7 @@ Rlationele database:
 Hierdoor gaat er in dit project gewerkt worden met een NoSQL database. Dit omdat nog niet alle eisen vast staan en er tijdens het project nog veel kan veranderen. Zeker in versie 2 van het project (na Paaspop) kan er nog veel veranderen waardoor NoSQL een geschikt database model is. Daarnaast moet het in principe geschikt zijn om gebruikt te worden door veel bezoekers in één keer waar de mogelijkheid tot horizontale schaling en conccurent prestatie erg fijn zijn. 
 
  > bron: https://resources.whitesourcesoftware.com/blog-whitesource/when-to-consider-a-nosql-vs-relational-database
+ 
  > https://medium.com/xplenty-blog/the-sql-vs-nosql-difference-mysql-vs-mongodb-32c9980e67b2
 
 ### Vergelijking NoSQL database omgevingen 
@@ -106,7 +113,9 @@ De enige eis is dat de gekozen NoSQL database drivers en een library heeft voor 
 
 
  > bron: https://stackshare.io/stackups/couchbase-vs-mongodb-vs-mysql
+
  > https://db-engines.com/en/system/Couchbase%3BMongoDB
+
  > https://dzone.com/articles/mongodb-vs-couchbase-part-2-json-tooling-and-more
 
 ### Argumentatie voor de gemaakte keuze
