@@ -16,3 +16,8 @@ Paaspop wil een ultieme festival app ontwikkelen en wil hier onderzoek naar doen
 - Favorieten bijhouden van app-gebruikers: naar welke artiesten ze graag heen willen. 
 - Budgetering: gebruiker kan budget bijhouden (kan lokaal opgeslagen worden).
 
+## vragen
+- Mag de data die binnenkomt ook gebruikt worden voor eventueel andere zaken binnen Paaspop?
+
+# opmerkingen
+Bewaartermijnen, zo gemeen mogelijk, zo goed mogelijk informeren wat de app inhoudt en doet met de data, privacy policy. Wie is verantwoordelijke van de app? Server locatie. Vragen om gegevens te wissen. Verwerk niet meer data dan nodig is. Fotos, IE rechten. Locatiegegevens? Doel gebruik data vragen aan Paaspop. Privacy verklaring Eftling. Opzetje maken, rachel kan nakijken of tips geven. 
