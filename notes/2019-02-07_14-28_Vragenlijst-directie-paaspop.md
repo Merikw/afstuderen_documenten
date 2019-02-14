@@ -24,10 +24,3 @@ tags:
 8. Nog bepaalde kwaliteitseisen waar specifiek aan gedacht moet worden?
 9. Wat willen jullie naast de app opgeleverd hebben? Een aantal ideeën: het onderzoek met de enquêtes, broncode van de app etc. 
 
-# Antwoorden
-1. Cross platform hoeft dus niet per se liefst well cross platform
-2. Innovatieve nieuwe dingen, verassingen, kant van de organisatie, data gebruiken waar mensen heen gaan, koppeling naar social
-6. Ja deze is er al en heeft Hans ook. VRAAG OVER COÖRDINAAT PUNTEN WAAR WAT STAAT?
-
-# Opmerkingen
-Denken aan de juiste huisstijl, beleving etc. Je raakt de bezoeker is belangrijk dat de belevenis goed is. In plannen is mogelijk voor gesprek met Paaspop in Schijndel. Even naar schijndel. 
