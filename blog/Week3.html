@@ -1,0 +1,52 @@
+---
+layout: default
+---
+<a href="https://merikw.github.io/afstuderen_documenten/">Terug naar de hoofdpagina</a>
+<h2>Week 3 (18/02 - 22/02): ontwerpen en beginnen met realiseren</h3>
+    <h3>De week</h3>
+    <p>
+        Na de uitslag van de enquête en het afronden van het onderzoek van de eerste drie deelvragen kon er begonnen worden aan het ontwerpen. 
+        Als eerste heb ik een inventarisatie lijst gemaakt van wat ik nodig had van Paaspop en Info Support zodat ik deze lijst naar Hans Geurtsen kon
+        versturen. Hierna heb ik de hele dag gewerkt aan een ontwerp maken voor de paaspop applicatie. Dit ontwerp kan hier gevonden worden: 
+        <a href="https://github.com/Merikw/afstuderen_documenten/blob/master/afbeeldingen/Paaspop%20app%20mockup%20V1.jpeg" target="_blank">Foto van mobiele app.</a> Ik
+        heb dit ontwerp de gehele tijd aangepast tot aan dit ontwerp. 
+    </p>
+    <p>
+        Dinsdag ben ik begonnen aan het ontwerpen en realiseren van de back-end. In de ochtend heb ik een ERD gemaakt voor de entiteiten van de back-end en 
+        een Git omgeving gerealiseerd. Toen dit af was heb ik opgezocht hoe ik een goede architectuur neer kon zetten. Na wat onderzoek was ik op clean architecture
+        gekomen wat bedacht is door Robert Cecil Martin ook wel Uncle Bob. Dit ben ik op dinsdag begonnen te realiseren aan de hand van een voorbeeld van een sessie. Woensdag
+        en donderdag ben ik bezig geweest met de hele opzet van de back-end. Hierin zit de clean architecture, CQRS patroon, mediatr, fluent validation en automapper. Op deze manier
+        kan ik zo snel mogelijk en goed mogelijk nieuwe functionaliteiten inbouwen. Hiermee was ik donderdag klaar. Ook kreeg ik op donderdag een mailtje van mijn 2de assessor dat hij
+        mijn plan van aanpak goed had gekeurd.  
+    </p>
+    <p> 
+        Eenmaal aangekomen op de vrijdag had ik in de ochtend mijn feature doorgezet naar de develop branch van de git omgeving van de back-end. Vervolgens ben ik gaan onderzoeken
+        hoe ik een mongo database op kon zetten in Azure. Om 08:30 had ik een gesprek met Hans Geurtsen voor mijn tweeweekelijkse gesprek voor feedback op de afgelopen 2 weken. 
+        De notities van de feedback kunnen hier gelezen worden 
+        (<a href="https://github.com/Merikw/afstuderen_documenten/blob/master/notes/2019-02-22_08-48_Gesprek-en-feedback-moment-hans-geurtsen.md" target="_blank">Notities feedback.</a>). 
+        Na dit gesprek ben ik verder gegaan met het opzetten van een mongo database omgeving ook via Mongo Atlas. Echter lukte het niet om hiermee te verbinden. Na wat tijd ben ik naar
+        het systeembeheer gegaan om te vragen of er porten geblokkeerd werden, en dat was het geval. De mongo database kan bereikt worden via port 27017, echter wordt deze port geblokkeerd
+        dus moet ik lokaal gaan werken. Daarna heb ik nog de feedback verwerkt van Gertjan Schouten op mijn plan van aanpak en feedback verwerkt van Hans Geursten op mijn ontwerp en analyse 
+        document.   
+    </p>
+    <h3>Problemen en feedback</h3>
+    <p>    
+        Deze week heb ik feedback gekregen op mijn plan van aanpak en het ontwerp en analyse document. Het was voor beide relatief weinig feedback en zowel mijn opdrachtgever binnen Info Support 
+        en mijn docentbegleider(s) waren erg tevreden. Het probleem dat ik deze week had is dat er in Veenendaal alleen port 443 bereikt kan worden en ik dus geen externe services kan bereiken. Ik zou
+        ervoor kunnen kiezen om samen met mijn opdrachtgever / begeleider een aanvraag te doen bij het systeembeheer, maar dit zou ik dan voor elke server die ik op wil zetten doen. Dus, heb ik ervoor 
+        gekozen om maandag te kijken of ik deze server wel kan bereiken. Als dat het geval is zal ik op de dagen dat ik in Den Bosch zit werken aan servers en als ik in Veenendaal ben zal ik alles lokaal 
+        draaien. Mocht ik echt servers moeten kunnen bereiken zal ik een aanvraag doen bij systeembeheer. 
+    </p>
+    <h3>Plannen voor volgende week</h3>
+    <p>
+        Komende week staan er drie verschillende meetings op de agenda. Maandag begint de belangrijkste meeting met mijn docent begeleider, opdrachtgever en proces begeleider. Tijdens deze 
+        meeting op maandag krijg ik te horen ofi keen Go, Conditional Go of No Go krijg. Woensdag heb ik een gesprek met Marco Kuijpers (mobile developer bij Info Support) voor wat vragen
+        die ik heb met betrekking tot mobile development. Als laatste heb ik vrijdag een voortgangsgesprek met mijn procesbegeleider. Daarnaast wil ik volgende week het volgende doen:
+        <ul>
+            <li>Duidelijke lijst samen stellen van wat ik nodig heb voor azure en de kosten daarvan</li>
+            <li>De database omgeving testen in den bosch</li>
+            <li>Het opzetten van de basis van de react native applicatie</li>
+            <li>Documentatie schrijven over de architectuur die ik gebruik</li>
+            <li>Testomgeving / continuous integration omgeving opzetten</li>
+        </ul>
+    </p>
