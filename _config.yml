@@ -1,15 +1,3 @@
 theme: jekyll-theme-slate
 title: Afstudeer blog - Merik Westerveld - Info Support
 description: Deze blog fungeert als inzage document van mijn afstudeerproces tijdens mijn afstudeerstage bij Info Support. 
-
-docs_list_title: Weken
-docs:
-
-- title: Week 1
-  url: ./blog/Week1.html
-
-- title: Week 2
-  url: ./blog/Week2.html
-
-- title: Week 3
-  url: ./blog/Week3.html
