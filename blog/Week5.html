@@ -1,0 +1,56 @@
+---
+layout: default
+---
+<a href="https://merikw.github.io/afstuderen_documenten/">Terug naar de hoofdpagina</a>
+<h2>Week 5 (04/03 - 08/03): Realisatie, CI / CD & meeting bij Paaspop</h3>
+    <h3>De week</h3>
+    <p>
+        Maandag ben ik begonnen met de functionaliteit van de eerste functie binnen de app (FEM1.). Deze functionaliteit betreft het inloggen van een gebruiker bij het eerste
+        keer gebruiken bij de app. Ik heb het volledige design gemaakt en daarnaast de API structuur van de app opgezet en een call naar de backend call. Tijdens dit process
+        liep ik tegen een klein probleem aan. Namelijk, ik had de backend lokaal draaien waardoor het een HTTPS server is met een certificate die niet juist gevalideerd
+        kan worden. Echter heb ik dit op kunnen lossen door in de backend te veranderen dat HTTPS niet afgedwongen wordt. 
+    </p>
+    <p>
+        Vandaag heb ik de API server functionaliteit gekoppeld aan de react native elementen in de front-end en alles klaar gemaakt zodat functionaliteit FEM1 doorgezet kan 
+        worden. Ook heb ik ESlint geïnstalleerd zodat de juiste code kwaliteit afgedwongen wordt tijdens het programmeren. Hierna heb ik de pull request opengezet, nagekeken
+        en doorgezet naar de develop branch. 
+    </p>
+    <p> 
+        Woensdag stond in het teken van CI / CD. Ik had besloten om in een VM een CI omgeving op te zetten met Jenkins om de code automatisch te bouwen, testen en wanneer goed 
+        bevonden door zetten naar de test omgeving. Er is voor Jenkins in een VM gekozen omdat ik dan full control heb over de omgeving en ik ook eventueel een database 
+        en de test omgeving kan hosten op deze VM. Op deze manier heb ik de gehele configuratie zelf in de hand. Ik ben zo ver gekomen dat de VM opstaat, een docker container 
+        met Jenkins draait en de code van Git gepulled kan worden en alle tests gerunt kunnen worden. Als laatste heb ik een voortgangsgesprek gehad met Hans. In dit gesprek
+        heb ik mijn voortgang van de app laten zien en nog wat belangrijke elementen besproken die in deze notes gelezen kunnen worden: 
+        <a href="https://github.com/Merikw/afstuderen_documenten/blob/master/notes/2019-03-08_08-14_Voortgangsgesprek-Hans-Geurtsen.md" target="_blank">Notities gesprek.</a> 
+        Een belangrijk feedback moment tijdens dit gesprek was dat ik het nog best lastig vond om te combineren wat de Fontys wilt en wat Info Support wilt. Als feedback 
+        heb ik gekregen om te gaan timeboxen (vooraf te bepalen hoeveel uur ik die dag ga werken voor School en hoeveel voor Info Support) om voor beide vooruit te werken. 
+    </p>
+    <p>
+        Deze dag ben ik voor het eerst begonnen met het timeboxen. Ik vond het erg fijn omdat ik op deze manier aan school werkte en de app. Vandaag is begonnen aan de 
+        backend functionaliteit van FEM2 om alle performances op te halen. Dit heb ik afgemaakt en een klein begin gemaakt aan de front end hiervan. Daarnaast heb ik nog
+        even gewerkt aan de CI / CD VM waarna ik rond half 3 richting Paaspop ging voor een gesprek met Lorenzo (UX profesional, designer en devloper) voor feedback 
+        op het ontwerp van de app. De belangrijkste notities kun je hier lezen: 
+        <a href="https://github.com/Merikw/afstuderen_documenten/blob/master/notes/2019-03-07_14-59_Gesprek-lorenzo-Paaspop.md" target="_blank">Notities gesprek.</a> 
+        Het belangrijkste uit dit gesprek was dat de app echt een unique selling point nodig heeft en ik voor de gebruikers out of the box moet denken zodat zei de 
+        beste ervaring krijgen met de app.
+    </p>
+    <p>
+        Op vrijdag heb ik thuis gewerkt. Ik had niet heel erg veel uren meer om te maken voor de week waardoor ik voor het timeboxen ervoor heb gekozen om alleen
+        aan de app te werken. Tijdens deze dag heb ik de front-end voor FEM2 gemaakt. 
+    </p>
+    <h3>Problemen en feedback</h3>
+    <p>    
+        Deze weeek zijn er twee problemen geweest. Het niet afdwingen van HTTPS in de backend en dat ik niet erg bekend ben met CI / CD waardoor dit allemaal wat langer
+        duurt. De feedback die hierop kwam vanuit Hans was dan ook om te gaan timeboxen. Daarnaast heb ik erg veel feedback gehad van Lorenzo over de app die je in 
+        de notities kunt lezen. 
+    </p>
+    <h3>Plannen voor volgende week</h3>
+    <p>
+        <ul>
+            <li>Verder werken aan de CI / CD omgeving.</li>
+            <li>Functionaliteit FEM2 afmaken.</li>
+            <li>Review gesprek met de business unit manager.</li>
+            <li>voortgangsgesprek met Bart.</li>
+            <li>Werken aan functionaliteit FEM3.</li>
+        </ul>
+    </p>
