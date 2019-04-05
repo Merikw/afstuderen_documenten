@@ -1,0 +1,51 @@
+---
+layout: default
+---
+<a href="https://merikw.github.io/afstuderen_documenten/">Terug naar de hoofdpagina</a>
+<h2>Week 9 (01/04 - 05/04): Bouwen aan laatste functionaliteiten voor versie 1 en begin afronding / planning voor Paaspop</h3>
+    <h3>De week</h3>
+    <p>
+        Op de maandag ochtend ben ik begonnen met aan de ene kant een bug oplossen dat google maps niet laadde in een release build en aan de andere kant ben ik bezig 
+        geweest met het ontwikkelen van de plek detail view. Dit heb ik naast elkaar gedaan aangezien het laden van google maps in de release build bij elke mogelijke 
+        fix best lang op zich laat wachten omdat het even duurt voordat die daadwerkelijk op de play store staat. Hierdoor heb ik deze activiteiten naast elkaar kunnen 
+        doen. Dit heb ik beide in de ochtend afgemaakt waarna ik verder ben gegaan met het weersbericht en de water drink push notificaties. Het maken van de water drink 
+        push notificatie was erg simpel aangezien het een cron job is die om de 2 uur een push notificatie stuurt naar alle gebruikers die deze functionaliteit in hun 
+        profiel aan hebben staan. Het weersbericht was echter iets ingewikkelder omdat het van een andere bron gebruikt moest worden. Hiervoor heb ik open weather map api
+        gebruikt om zo elk uur te kijken naar het volgende punt (8 uur, 11 uur, 2 uur etc.) en hier een push notificatie van naar de gebruiker te sturen zodat de festivalbezoeke 
+        altijd op de hoogte is van de laatste weersontwikkelingen tijdens het festival. 
+    </p>
+    <p>
+        Dinsdag ben ik begonnen met het fixen van een nieuwe bug wat inhield dat de release build geen push notificaties ontving. Dit was gelukkig zo verholpen met 
+        wat fixes in de cronjobs die ik gebruikte en het zetten van de environment variabelen in mijn jenkins en docker omgeving. Hierna ben ik de gehele dag bezig 
+        geweest met de laatste functionaliteit die in het ontwerp was meegenomen, het genereren van een meeting punt voor vrienden zodat deze gedeelt kan worden via 
+        Whatsapp, facebook messenger etc. 
+    </p>
+    <p> 
+        In de ochtend ben ik nog even bezig geweest met het deep linken van de link van het gegenereerde meeting punt. Als een gebruiker de link ontvangt en hij heeft 
+        de app dan wordt met deze link ook de app geopend. Echter is deze documentatie nogal slecht waardoor er het één en ander uitgezocht moest worden. In de ochtend 
+        heb ik een gesprek gehad met Hans voor een voortgangsgesprek 
+        (<a href="https://github.com/Merikw/afstuderen_documenten/blob/master/notes/2019-04-03_08-18_feedback-gesprek-hans-geurtsen.md" target="_blank">Notities gesprek.</a> )
+        Na dit gesprek ben ik in de auto gestapt om richting Zoeterwoude te rijden om daar een sessie van Info Support bij Heiniken bij te wonen om inzicht te krijgen 
+        hoe Info Support werkt bij andere bedrijven. Eénmaal terug gekomen in de middag ben ik verder gegaan met het deep linking en heb ik een begin gemaakt aan het 
+        uitschrijven van het plan wat ik op Paaspop zelf ga doen. In de avond ben ik nog naar de ISKA geweest over service fabric mesh. 
+    </p>
+    <p>
+        Donderdag ben ik verder gegaan met het uitschrijven van het plan voor Paaspop. Ik heb een beslisboom uitgewerkt en een korte eerste versie van een animatie gemaakt 
+        ter promotie van de app mocht ik dit willen inzetten op het festival om zo volume te creëren voor de app. In de middag ben ik bezig geweest met het testen van de 
+        app en ben ik begonnen met het eruit halen van bugs.
+    </p>
+    <p>
+        De laatste dag van de week is een redelijk korte dag geweest (aangezien woensdag altijd lange dagen zijn) waarvan ik het merendeel van de tijd een sessie heb 
+        gehad over de arbijdsvoorwaarden binnen Info Support en wat er bij komt kijken als je er komt te werken. Een hele interessante sessie die me goed aan het denken 
+        heeft gezet over mogelijke toekomst plannen! Daarnaast ben ik wederom bezig geweest met testen en bugs fixen.
+    </p>
+    <h3>Plannen voor volgende week</h3>
+    <p>
+        <ul>
+            <li>Test plan maken voor op het festival</li>
+            <li>Test plan van de app uitwerken</li>
+            <li>App doorgrondig testen en bugs fixen</li>
+            <li>Terugkom dag bij de Fontys</li>
+            <li>Evaluatiegesprek en reviewgesprek</li>
+        </ul>
+    </p>
