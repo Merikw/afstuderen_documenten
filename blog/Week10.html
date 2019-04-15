@@ -1,0 +1,36 @@
+---
+layout: default
+---
+<a href="https://merikw.github.io/afstuderen_documenten/">Terug naar de hoofdpagina</a>
+<h2>Week 10 (08/04 - 12/04): App testen en bugs fixes, JSON feed van timetable uitlezen en grote fout</h3>
+    <h3>De week</h3>
+    <p>
+        Deze blog zal erg kort zijn omdat deze week is op te delen in twee helften. Hierdoor beschrijf ik niet per dag wat ik gedaan heb maar per week helft. 
+        De eerste helft loopt van maandag ochtend tot en met woensdag ochtend en de tweede helft loopt vanaf woensdag ochtend tot en met vrijdag middag. 
+    </p>
+    <p>
+        Tijdens de eerste helft van de week heb ik de app doorgrondig getest en alle bugs die ik tegen kwam heb ik uit de app gehaald. Dit waren voornamelijk veel 
+        UI fixes en een paar kleine logic back-end fixes. Daarnaast heb ik nog de JSON feed van de timetable van Paaspop aangeleverd gekregen welke ik heb kunnen 
+        uitlezen en in de database heb kunnen zetten. Ook heb ik hier de genres van verkregen via de Spotify API aangezien er geen genre's aangeleverd stonden in de 
+        JSON API. 
+    </p>
+    <p>
+        De tweede helft begon op woensdag ochtend toen ik een crash kreeg in de release build op een andere telefoon die ik mee had. Ik had toevallig een Samsung S7 met 
+        Android 6.0.1 mee waar ik de app op wilde draaien maar deze crashte. Ik heb hier heel veel onderzoek naar gedaan wat de fout kon zijn maar uiteindelijk heb ik 
+        samen met mijn begeleider de deadline gezet op vrijdag middag / maandag ochtend waarna ik voor nu heb besloten dat dit waarschijnlijk een fout is die ligt aan het 
+        specifieke toestel of toestel versie en android versie combinatie. De crash treed namelijk op bij het gebruik van de library React-native-maps in de release build 
+        maar hij draait prima in de develop build. Ik heb de issue op de github pagina geschreven van de library zodat hier misschien nog naar gekeken kan worden door 
+        de developers van die library. In het weekend heb ik de app nog getest op: Samsung S4 met Android 4.0.1, Motorola met Android 6.0.1, Samsung S7 met Android 7.0.1  
+        en een Nexus met Android 9.0.1 en hier werktte de app prima op. Verder hebik in de tweede helft van de week een reviewgesprek gehad met mijn busineess unit manager
+        en op vrijdag een voortgangsgesprek met mijn procces begeleider. 
+    </p>
+    <h3>Plannen voor volgende week</h3>
+    <p>
+        <ul>
+            <li>Nieuwe plattegrond in de app zetten.</li>
+            <li>Beschrijvingen van artiesten binnen krijgen via JSON API of uitlezen van een tekst bestand.</li>
+            <li>Testplan met UX vragen opzetten voor op Paaspop.</li>
+            <li>Laatste fouten uit de app halen en de azure omgeving opschalen voor Paaspop.</li>
+            <li>Paaspop festival zelf.</li>
+        </ul>
+    </p>
